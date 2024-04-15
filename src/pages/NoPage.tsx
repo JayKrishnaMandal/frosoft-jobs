@@ -1,9 +1,5 @@
-import React from 'react'
-
 const Nopage = () => {
-  return (
-    <div>Nopage</div>
-  )
-}
+  return <div>Nopage</div>;
+};
 
-export default Nopage
+export default Nopage;
